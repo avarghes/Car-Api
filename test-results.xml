@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0720" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-04-04T18:07:24" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Accessories Controller" timestamp="2020-04-04T18:07:26" tests="8" file="/mnt/e/NodeJs/2ecfd1ae-4670-4fc7-903c-69400ed42724/test/controllers/AccessoriesController.test.js" time="0.0720" failures="0">
+    <testcase name="Accessories Controller Create" time="0.0060" classname="Create">
+    </testcase>
+    <testcase name="Accessories Controller Fetch" time="0.0170" classname="Fetch">
+    </testcase>
+    <testcase name="Accessories Controller Update" time="0.0080" classname="Update">
+    </testcase>
+    <testcase name="Accessories Controller Search" time="0.0060" classname="Search">
+    </testcase>
+    <testcase name="Accessories Controller Delete existing id" time="0.0100" classname="Delete existing id">
+    </testcase>
+    <testcase name="Accessories Controller Delete with non-numeric id" time="0.0060" classname="Delete with non-numeric id">
+    </testcase>
+    <testcase name="Accessories Controller Delete with non-existent id" time="0.0120" classname="Delete with non-existent id">
+    </testcase>
+    <testcase name="Accessories Controller Delete All" time="0.0070" classname="Delete All">
+    </testcase>
+  </testsuite>
+</testsuites>
